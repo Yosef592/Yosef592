@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yosef (Hxbno)</h1>
 <h3 align="center">A Junior Penetration Tester 💻 | CTF Player⚡️ | IT Guy 🧑</h3>
 
-- 🔭 I’m currently working on **Cyber Security**
+- 🔭 I’m currently working on **Android Penetration Testing**
 
-- 🌱 I’m currently learning **Cyber Security (Hacking)**
+- 🌱 I’m currently learning **Android Penetration Testing**
 
 - 🤝 I’m looking for help with **Cyber Security**
 
