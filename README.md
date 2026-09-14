@@ -1,23 +1,116 @@
-<h1 align="center">Hi 👋, I'm Yosef (D3f4ult)</h1>
-<h3 align="center">Certified Penetration Tester💻 | CTF Player⚡️ | Comp. Scie🕵️</h3>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/aHhibm8K" target="blank"><img src="https://img.shields.io/twitter/follow/aHhibm8K?logo=twitter&style=for-the-badge" alt="aHhibm8K" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yosef;a.k.a+D3f4ult;GTST+Certified+%F0%9F%94%90;Studying+GTWSS+%2F%2F+Web+Security;CTF+Player+%E2%9A%A1+%2F%2F+OSINT+%F0%9F%95%B5" alt="Typing SVG" />
 
-- 🔭 I'm currently working on **Web Penetration Testing**
+</div>
 
-- 🌱 I'm currently learning **Web Penetration Testing**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=180&section=header&text=D3f4ult&fontSize=60&fontColor=00FF41&animation=fadeIn&fontAlignY=40&desc=root@yosef:~%23%20whoami&descAlignY=60&descSize=18" width="100%"/>
 
-- 💬 Ask me about **Any Ethical Hacking Concepts**
-
-- 📫 How to reach me **josialex1122@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/yosef-default-alex-3525212b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yosef-default-alex-3525212b5" height="30" width="40" /></a>
-<a href="https://instagram.com/_ftp.d3f4ult" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ftp.default" height="30" width="40" /></a>
-<a href="https://twitter.com/aHhibm8K" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aHhibm8K" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/whoami-D3f4ult-00FF41?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/status-hacking_the_planet-00FF41?style=for-the-badge&logo=matrix&logoColor=black&labelColor=0d1117" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+---
 
+### `> cat about_me.txt`
+
+```yaml
+name:          Yosef
+alias:         D3f4ult
+role:          Aspiring Web Security Specialist
+certified_in:  GTST (Geez Tech Security Tester)
+currently:     Studying GTWSS - injection, auth flaws, API security, bug bounty reporting
+playground:    CTF challenges, OSINT recon
+location:      Addis Ababa, Ethiopia
+motto:         "There is no patch for human curiosity."
+```
+
+---
+
+### `> ls ./certifications`
+
+<p align="left">
+  <a href="https://academy.geezsecurity.com/verify" target="_blank">
+    <img src="https://img.shields.io/badge/GTST-Certified-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0d1117" />
+  </a>
+  <img src="https://img.shields.io/badge/GTWSS-In_Progress-1f6feb?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0d1117" />
+</p>
+
+> ✅ Verify my GTST certificate → **[academy.geezsecurity.com/verify](https://academy.geezsecurity.com/verify)**
+
+---
+
+### `> ./run.sh --skills`
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,c,php,mysql,html,css,js,docker,git&theme=dark" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Web_Pentesting-000000?style=flat-square&logo=owasp&logoColor=00FF41&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/OSINT-000000?style=flat-square&logo=eyeem&logoColor=00FF41&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CTF-000000?style=flat-square&logo=hackaday&logoColor=00FF41&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Networking-000000?style=flat-square&logo=cisco&logoColor=00FF41&labelColor=0d1117" />
+</p>
+
+---
+
+### `> cat currently_working_on.log`
+
+- 🔭 Currently working on **Web Penetration Testing**
+- 🌱 Currently learning **GTWSS (Web Security Specialist track)**
+- 💬 Ask me about **Ethical Hacking, CTFs, OSINT**
+- ⚡ Fun fact: **I automate what others do manually**
+
+---
+
+### `> netstat --connections`
+
+<p align="left">
+  <a href="https://github.com/Yosef592" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d1117" />
+  </a>
+  <a href="https://x.com/aHhibm8K" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF41&labelColor=0d1117" />
+  </a>
+  <a href="https://www.instagram.com/_ftp.d3f4ult/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=00FF41&labelColor=0d1117" />
+  </a>
+</p>
+
+---
+
+### `> git log --stats`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yosef592&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Yosef592&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yosef592&layout=compact&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00FF41&text_color=c9d1d9" />
+</p>
+
+---
+
+### `> pinned --repos`
+
+<p align="center">
+  <a href="https://github.com/Yosef592/Osint">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Yosef592&repo=Osint&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00FF41&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/Yosef592/Cyber_Security">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Yosef592&repo=Cyber_Security&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00FF41&text_color=c9d1d9" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+`root@d3f4ult:~# echo "thanks for stopping by"`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0d1117&height=100&section=footer" width="100%"/>
+
+</div>
