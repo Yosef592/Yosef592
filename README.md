@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/whoami-D3f4ult-00FF41?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/status-hacking_the_planet-00FF41?style=for-the-badge&logo=matrix&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/status-online-00FF41?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0d1117" />
 </p>
 
 ---
@@ -20,6 +20,7 @@ name:          Yosef
 alias:         D3f4ult
 role:          Aspiring Web Security Specialist
 certified_in:  GTST (Geez Tech Security Tester)
+cert_id:       GTSTV2R12AA0083
 currently:     Studying GTWSS - injection, auth flaws, API security, bug bounty reporting
 playground:    CTF challenges, OSINT recon
 location:      Addis Ababa, Ethiopia
@@ -31,13 +32,13 @@ motto:         "There is no patch for human curiosity."
 ### `> ls ./certifications`
 
 <p align="left">
-  <a href="https://academy.geezsecurity.com/verify" target="_blank">
+  <a href="https://academy.geezsecurity.com/verify?id=GTSTV2R12AA0083" target="_blank">
     <img src="https://img.shields.io/badge/GTST-Certified-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0d1117" />
   </a>
   <img src="https://img.shields.io/badge/GTWSS-In_Progress-1f6feb?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0d1117" />
 </p>
 
-> ✅ Verify my GTST certificate → **[academy.geezsecurity.com/verify](https://academy.geezsecurity.com/verify)**
+> ✅ Verify my GTST certificate (ID `GTSTV2R12AA0083`) → **[academy.geezsecurity.com/verify?id=GTSTV2R12AA0083](https://academy.geezsecurity.com/verify?id=GTSTV2R12AA0083)**
 
 ---
 
@@ -71,6 +72,9 @@ motto:         "There is no patch for human curiosity."
   <a href="https://github.com/Yosef592" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d1117" />
   </a>
+  <a href="https://www.linkedin.com/in/yosef-default-alex-3525212b5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d1117" />
+  </a>
   <a href="https://x.com/aHhibm8K" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF41&labelColor=0d1117" />
   </a>
@@ -85,7 +89,7 @@ motto:         "There is no patch for human curiosity."
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yosef592&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Yosef592&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Yosef592&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 </p>
 
 <p align="center">
