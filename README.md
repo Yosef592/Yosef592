@@ -1,120 +1,238 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yosef;a.k.a+D3f4ult;GTST+Certified+%F0%9F%94%90;Studying+GTWSS+%2F%2F+Web+Security;CTF+Player+%E2%9A%A1+%2F%2F+OSINT+%F0%9F%95%B5" alt="Typing SVG" />
+# `D3f4ult`
+
+### `root@yosef:~$ whoami`
+
+**Yosef Alemayehu** · **D3f4ult** · Web Security Student · CTF Player
+
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│  ACCESS GRANTED                                                      │
+│                                                                      │
+│  user      : Yosef / D3f4ult                                        │
+│  focus     : Web Security · Pentesting · CTF · OSINT                 │
+│  status    : GTST ✓  |  GTWSS ▓▓▓▓▓▓░░░░ IN PROGRESS                │
+│  mindset   : Learn → Build → Break → Fix → Repeat                   │
+│                                                                      │
+│  "There is no patch for human curiosity."                            │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+[![GitHub](https://img.shields.io/badge/GitHub-Yosef592-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/Yosef592)
+[![GTST](https://img.shields.io/badge/GTST-CERTIFIED-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00ff41)](https://academy.geezsecurity.com/verify?id=GTSTV2R12AA0083)
+[![Instagram](https://img.shields.io/badge/Instagram-_ftp.d3f4ult-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff41)](https://www.instagram.com/_ftp.d3f4ult/)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=180&section=header&text=D3f4ult&fontSize=60&fontColor=00FF41&animation=fadeIn&fontAlignY=40&desc=root@yosef:~%23%20whoami&descAlignY=60&descSize=18" width="100%"/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/whoami-D3f4ult-00FF41?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/status-online-00FF41?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0d1117" />
-</p>
-
 ---
 
-### `> cat about_me.txt`
+## `> cat about_me.txt`
 
 ```yaml
-name:          Yosef
-alias:         D3f4ult
-role:          Aspiring Web Security Specialist
-certified_in:  GTST (Geez Tech Security Tester)
-cert_id:       GTSTV2R12AA0083
-currently:     Studying GTWSS - injection, auth flaws, API security, bug bounty reporting
-playground:    CTF challenges, OSINT recon
-location:      Addis Ababa, Ethiopia
-motto:         "There is no patch for human curiosity."
+identity:
+  name: Yosef Alemayehu
+  alias: D3f4ult
+  role: Aspiring Web Security Specialist
+  location: Addis Ababa, Ethiopia
+
+security:
+  certified: GTST (Geez Tech Security Tester)
+  certification_id: GTSTV2R12AA0083
+  current_track: GTWSS (Geez Tech Web Security Specialist)
+
+focus:
+  - Web Penetration Testing
+  - Web Application Security
+  - CTF Challenges
+  - OSINT & Reconnaissance
+  - Networking
+  - Python Automation
+
+philosophy:
+  - Think like an attacker
+  - Build like a developer
+  - Defend like a security engineer
 ```
 
 ---
 
-### `> ls ./certifications`
+## `> ls -la ./certifications`
 
-<p align="left">
-  <a href="https://academy.geezsecurity.com/verify?id=GTSTV2R12AA0083" target="_blank">
-    <img src="https://img.shields.io/badge/GTST-Certified-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0d1117" />
-  </a>
-  <img src="https://img.shields.io/badge/GTWSS-In_Progress-1f6feb?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0d1117" />
-</p>
+```text
+./certifications/
+│
+├── [✓] GTST
+│   ├── status    : CERTIFIED
+│   ├── issuer    : Geez Tech Security
+│   └── verify    : GTSTV2R12AA0083
+│
+└── [~] GTWSS
+    ├── status    : IN PROGRESS
+    └── focus     : Web Security Specialist
+```
 
-> ✅ Verify my GTST certificate (ID `GTSTV2R12AA0083`) → **[academy.geezsecurity.com/verify?id=GTSTV2R12AA0083](https://academy.geezsecurity.com/verify?id=GTSTV2R12AA0083)**
+### `CERTIFICATION STATUS`
 
----
+| Certification | Status | Verification |
+|---|:---:|---|
+| **GTST — Geez Tech Security Tester** | `✓ CERTIFIED` | [Verify certificate](https://academy.geezsecurity.com/verify?id=GTSTV2R12AA0083) |
+| **GTWSS — Web Security Specialist** | `~ IN PROGRESS` | Currently studying |
 
-### `> ./run.sh --skills`
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,c,php,mysql,html,css,js,docker,git&theme=dark" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Web_Pentesting-000000?style=flat-square&logo=owasp&logoColor=00FF41&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/OSINT-000000?style=flat-square&logo=eyeem&logoColor=00FF41&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/CTF-000000?style=flat-square&logo=hackaday&logoColor=00FF41&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Networking-000000?style=flat-square&logo=cisco&logoColor=00FF41&labelColor=0d1117" />
-</p>
+> **GTST ID:** `GTSTV2R12AA0083`
 
 ---
 
-### `> cat currently_working_on.log`
+## `> ./run.sh --skills`
 
-- 🔭 Currently working on **Web Penetration Testing**
-- 🌱 Currently learning **GTWSS (Web Security Specialist track)**
-- 💬 Ask me about **Ethical Hacking, CTFs, OSINT**
-- ⚡ Fun fact: **I automate what others do manually**
+```text
+[████████████████████████████████] WEB SECURITY
+[██████████████████████████████░░] PYTHON
+[████████████████████████████░░░░] LINUX
+[██████████████████████████░░░░░░] NETWORKING
+[████████████████████████░░░░░░░░] BASH
+[██████████████████████░░░░░░░░░░] CTF / OSINT
+```
 
----
+### `TECH STACK`
 
-### `> netstat --connections`
+`Linux` `Bash` `Python` `C` `PHP` `MySQL` `HTML` `CSS` `JavaScript` `Docker` `Git`
 
-<p align="left">
-  <a href="https://github.com/Yosef592" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d1117" />
-  </a>
-  <a href="https://www.linkedin.com/in/yosef-default-alex-3525212b5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d1117" />
-  </a>
-  <a href="https://x.com/aHhibm8K" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF41&labelColor=0d1117" />
-  </a>
-  <a href="https://www.instagram.com/_ftp.d3f4ult/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=00FF41&labelColor=0d1117" />
-  </a>
-</p>
+### `SECURITY TOOLBOX`
+
+`Burp Suite` `Nmap` `Wireshark` `Gobuster` `ffuf` `SQLMap` `Git` `Linux CLI`
+
+> My current priority is **web security**, not collecting tools — understanding what happens underneath matters more.
 
 ---
 
-### `> git log --stats`
+## `> tail -f currently_working_on.log`
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yosef592&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=Yosef592&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-</p>
+```log
+[ACTIVE] Web Penetration Testing
+[ACTIVE] GTWSS / Web Security Specialist track
+[ACTIVE] CTF practice
+[ACTIVE] OSINT & reconnaissance
+[ACTIVE] Python automation
+[QUEUE ] Bug bounty methodology
+[QUEUE ] Advanced API security
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yosef592&layout=compact&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00FF41&text_color=c9d1d9" />
-</p>
+### `MISSION`
+
+> Build real security skills through labs, CTFs, research, automation and hands-on experimentation.
 
 ---
 
-### `> pinned --repos`
+## `> git log --stats --oneline`
 
-<p align="center">
-  <a href="https://github.com/Yosef592/Osint">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Yosef592&repo=Osint&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00FF41&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/Yosef592/Cyber_Security">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Yosef592&repo=Cyber_Security&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00FF41&text_color=c9d1d9" />
-  </a>
-</p>
+Instead of relying on external GitHub-stat image generators, this profile keeps the activity section **image-free and GitHub-native**, so it stays readable even when third-party SVG services are down.
+
+```text
+BRANCH      : main
+REPOSITORIES: Cyber_Security · Osint
+WORKFLOW    : Learn → Commit → Test → Document
+
+$ git status
+On branch main
+working tree: learning + building
+
+$ git log --oneline
+[web-sec]   building security knowledge
+[ctf]       solving challenges
+[osint]     practicing reconnaissance
+[python]    automating repetitive tasks
+[linux]     improving command-line workflow
+```
+
+### `> git --stats`
+
+| Metric | Current focus |
+|---|---|
+| `Web Security` | ████████████████████ |
+| `Python` | ████████████████░░░░ |
+| `Linux` | ███████████████░░░░░ |
+| `Networking` | ██████████████░░░░░░ |
+| `CTF / OSINT` | ███████████████░░░░░ |
+
+---
+
+## `> pinned --repos`
+
+### `01 // Osint`
+
+```text
+┌──────────────────────────────────────────────────────────────────┐
+│  ◉ OSINT                                                         │
+│                                                                  │
+│  Reconnaissance, information gathering and OSINT experiments.    │
+│                                                                  │
+│  stack  : Python · OSINT · Recon                                 │
+│  access : PUBLIC                                                 │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+→ **[Open Yosef592/Osint](https://github.com/Yosef592/Osint)**
+
+### `02 // Cyber_Security`
+
+```text
+┌──────────────────────────────────────────────────────────────────┐
+│  ◉ CYBER_SECURITY                                                 │
+│                                                                  │
+│  Security learning notes, networking and cybersecurity concepts.  │
+│                                                                  │
+│  stack  : Linux · Networking · Web Security · Cybersecurity      │
+│  access : PUBLIC                                                 │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+→ **[Open Yosef592/Cyber_Security](https://github.com/Yosef592/Cyber_Security)**
+
+---
+
+## `> netstat --connections`
+
+```text
+[01] GitHub       → github.com/Yosef592
+[02] LinkedIn     → yosef-default-alex-3525212b5
+[03] X            → @aHhibm8K
+[04] Instagram    → @_ftp.d3f4ult
+```
+
+- **GitHub:** [github.com/Yosef592](https://github.com/Yosef592)
+- **LinkedIn:** [yosef-default-alex-3525212b5](https://www.linkedin.com/in/yosef-default-alex-3525212b5/)
+- **X:** [@aHhibm8K](https://x.com/aHhibm8K)
+- **Instagram:** [@_ftp.d3f4ult](https://www.instagram.com/_ftp.d3f4ult/)
+
+---
+
+## `> ./contact.sh`
+
+```bash
+#!/bin/bash
+
+echo "[+] Connection established."
+echo "[+] Security mindset: ONLINE"
+echo "[+] Curiosity: UNPATCHED"
+
+# Open an issue or reach out through the links above.
+```
 
 ---
 
 <div align="center">
 
-`root@d3f4ult:~# echo "thanks for stopping by"`
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   root@d3f4ult:~$ echo "keep learning. keep hacking."        ║
+║                                                              ║
+║   [ CONNECTION TERMINATED ]                                  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0d1117&height=100&section=footer" width="100%"/>
+**D3f4ult // Web Security // CTF // OSINT**
 
 </div>
