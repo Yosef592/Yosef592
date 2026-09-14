@@ -1,117 +1,176 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=D3f4ult&fontSize=68&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=WEB%20SECURITY%20%7C%20CTF%20%7C%20OSINT&descAlignY=60&descSize=17&color=0d1117" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2300&pause=650&color=00FF41&center=true&vCenter=true&width=760&lines=%24+whoami+%E2%86%92+D3f4ult;%24+status+%E2%86%92+GTST+%E2%9C%93+%7C+GTWSS+%7E;%24+mission+%E2%86%92+Learn.+Build.+Break.+Fix." alt="Typing animation"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/GTST-CERTIFIED-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00ff41"/>
-<img src="https://img.shields.io/badge/GTWSS-IN_PROGRESS-0d1117?style=for-the-badge&logo=owasp&logoColor=00ff41"/>
-<img src="https://img.shields.io/badge/WEB_SECURITY-FOCUS-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00ff41"/>
-
-<br><br>
-
-> **There is no patch for human curiosity.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yosef;a.k.a+D3f4ult;GTST+Certified+%F0%9F%94%90;Studying+GTWSS+%2F%2F+Web+Security;CTF+Player+%E2%9A%A1+%2F%2F+OSINT+%F0%9F%95%B5" alt="Typing SVG" />
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=180&section=header&text=D3f4ult&fontSize=60&fontColor=00FF41&animation=fadeIn&fontAlignY=40&desc=root@yosef:~%23%20whoami&descAlignY=60&descSize=18" width="100%"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/whoami-D3f4ult-00FF41?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/status-online-00FF41?style=for-the-badge&logo=nginx&logoColor=black&labelColor=0d1117" />
+</p>
+
 ---
-## `> whoami`
 
-**Yosef Alemayehu** — `D3f4ult`  
-🔐 Aspiring Web Security Specialist · ⚡ CTF Player · 🕵️ OSINT · 🐍 Python
+### `> cat about_me.txt`
 
-```text
-GTST  ✓ CERTIFIED
-GTWSS ~ IN PROGRESS
-FOCUS → Web Pentesting · Networking · Linux · Automation
+```yaml
+name:          Yosef
+alias:         D3f4ult
+role:          Aspiring Web Security Specialist
+certified_in:  GTST (Geez Tech Security Tester)
+cert_id:       GTSTV2R12AA0083
+currently:     Studying GTWSS - injection, auth flaws, API security, bug bounty reporting
+playground:    CTF challenges, OSINT recon
+location:      Addis Ababa, Ethiopia
+motto:         "There is no patch for human curiosity."
 ```
 
 ---
 
-## `> ls ./certifications`
+### `> ./run.sh --skills`
 
-🏆 **GTST — Geez Tech Security Tester** `✓ CERTIFIED`  
-`ID: GTSTV2R12AA0083` · [Verify](https://academy.geezsecurity.com/verify?id=GTSTV2R12AA0083)
-
-🎯 **GTWSS — Web Security Specialist** `~ IN PROGRESS`
-
----
-## `> ./skills.sh`
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,bash,python,c,php,mysql,html,css,js,docker,git,github&theme=dark" alt="Tech stack"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,c,php,mysql,html,css,js,docker,git&theme=dark" />
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=00ff41"/>
-<img src="https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=linux&logoColor=00ff41"/>
-<img src="https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=00ff41"/>
-<img src="https://img.shields.io/badge/ffuf-0d1117?style=flat-square&logo=hackthebox&logoColor=00ff41"/>
-<img src="https://img.shields.io/badge/SQLMap-0d1117?style=flat-square&logo=mysql&logoColor=00ff41"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Web_Pentesting-000000?style=flat-square&logo=owasp&logoColor=00FF41&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/OSINT-000000?style=flat-square&logo=eyeem&logoColor=00FF41&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CTF-000000?style=flat-square&logo=hackaday&logoColor=00FF41&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Networking-000000?style=flat-square&logo=cisco&logoColor=00FF41&labelColor=0d1117" />
 </p>
 
-**Focus:** `Web Security` · `Pentesting` · `CTF` · `OSINT` · `Networking` · `Python`
-
 ---
-## `> tail -f mission.log`
 
-```log
-[+] Web Penetration Testing
-[+] GTWSS / Web Security
-[+] CTF + OSINT
-[+] Python Automation
+### `> ls -la ./certifications`
+
+<div align="center">
+
+```bash
+root@d3f4ult:~# find /certs -type f -exec file {} \;
 ```
 
-> **Think like an attacker. Build like a developer. Defend like a security engineer.**
+| # | Certificate | ID | Issuer | Status |
+|:-:|---|---|---|:-:|
+| 01 | **GTST** — Geez Tech Security Tester | `GTSTV2R12AA0083` | Geez Security | 🟢 `VERIFIED` |
+| 02 | **GTWSS** — Web Security Specialist | `pending` | Geez Security | 🟡 `IN_PROGRESS` |
+
+</div>
+
+<p align="center">
+  <a href="https://academy.geezsecurity.com/verify?id=GTSTV2R12AA0083" target="_blank">
+    <img src="https://img.shields.io/badge/GTST-VERIFIED-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0d1117" />
+  </a>
+  <img src="https://img.shields.io/badge/GTWSS-IN_PROGRESS-1f6feb?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CERT_ID-GTSTV2R12AA0083-0d1117?style=for-the-badge&labelColor=000000&color=00FF41" />
+</p>
+
+```bash
+root@d3f4ult:~# curl -s "academy.geezsecurity.com/verify?id=GTSTV2R12AA0083"
+[✓] status  : VALID
+[✓] holder  : Yosef ("D3f4ult")
+[✓] level   : GTST — Geez Tech Security Tester
+[✓] issuer  : Geez Security Academy
+root@d3f4ult:~#
+```
+
+<p align="center">
+  <a href="https://academy.geezsecurity.com/verify?id=GTSTV2R12AA0083" target="_blank"><b>🔗 Verify this certificate →</b></a>
+</p>
 
 ---
 
-## `> pinned --repos`
+### `> cat currently_working_on.log`
 
-<table>
+- 🔭 Currently working on **Web Penetration Testing**
+- 🌱 Currently learning **GTWSS (Web Security Specialist track)**
+- 💬 Ask me about **Ethical Hacking, CTFs, OSINT**
+- ⚡ Fun fact: **I automate what others do manually**
+
+---
+
+### `> netstat --connections`
+
+<p align="left">
+  <a href="https://github.com/Yosef592" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d1117" />
+  </a>
+  <a href="https://www.linkedin.com/in/yosef-default-alex-3525212b5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d1117" />
+  </a>
+  <a href="https://x.com/aHhibm8K" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF41&labelColor=0d1117" />
+  </a>
+  <a href="https://www.instagram.com/_ftp.d3f4ult/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=00FF41&labelColor=0d1117" />
+  </a>
+</p>
+
+---
+
+### `> git log --stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yosef592&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9&cache_seconds=1800" alt="GitHub Stats" />
+<img height="165" src="https://streak-stats.demolab.com/?user=Yosef592&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yosef592&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=00FF41&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Langs" />
+
+</div>
+
+> **Note:** these cards are served by a free shared instance (`vercel.app`) that is frequently rate-limited or temporarily down — that's almost certainly why images looked broken. If they don't render after a hard refresh (`Ctrl/Cmd+Shift+R`) or a few minutes, deploy your own free instance in one click and swap the domain in the URLs above:
+> [![Deploy](https://img.shields.io/badge/Deploy_your_own_instance-00FF41?style=flat-square&logo=vercel&logoColor=black&labelColor=0d1117)](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance)
+
+---
+
+### `> ls -la ./pinned_repos`
+
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔎 `Osint`
-Recon, information gathering & OSINT experiments.
+```bash
+root@d3f4ult:~# cd Osint && cat metadata.json
+```
+**[📁 Osint](https://github.com/Yosef592/Osint)**
+Open-source intelligence recon scripts & notes.
 
-**[↗ Open repository](https://github.com/Yosef592/Osint)**
+<p>
+<img src="https://img.shields.io/github/stars/Yosef592/Osint?style=flat-square&color=00FF41&labelColor=0d1117&logo=github" />
+<img src="https://img.shields.io/github/last-commit/Yosef592/Osint?style=flat-square&color=1f6feb&labelColor=0d1117&logo=git" />
+<img src="https://img.shields.io/github/languages/top/Yosef592/Osint?style=flat-square&color=00FF41&labelColor=0d1117" />
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛡️ `Cyber_Security`
-Cybersecurity notes, networking & security concepts.
+```bash
+root@d3f4ult:~# cd Cyber_Security && cat metadata.json
+```
+**[📁 Cyber_Security](https://github.com/Yosef592/Cyber_Security)**
+Security notes, writeups & practice work.
 
-**[↗ Open repository](https://github.com/Yosef592/Cyber_Security)**
+<p>
+<img src="https://img.shields.io/github/stars/Yosef592/Cyber_Security?style=flat-square&color=00FF41&labelColor=0d1117&logo=github" />
+<img src="https://img.shields.io/github/last-commit/Yosef592/Cyber_Security?style=flat-square&color=1f6feb&labelColor=0d1117&logo=git" />
+<img src="https://img.shields.io/github/languages/top/Yosef592/Cyber_Security?style=flat-square&color=00FF41&labelColor=0d1117" />
+</p>
 
 </td>
 </tr>
 </table>
 
----
-## `> netstat --connections`
-
-<p align="center">
-<a href="https://github.com/Yosef592"><img src="https://img.shields.io/badge/GitHub-Yosef592-0d1117?style=for-the-badge&logo=github&logoColor=00ff41"/></a>
-<a href="https://www.linkedin.com/in/yosef-default-alex-3525212b5/"><img src="https://img.shields.io/badge/LinkedIn-Yosef-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41"/></a>
-<a href="https://x.com/aHhibm8K"><img src="https://img.shields.io/badge/X-@aHhibm8K-0d1117?style=for-the-badge&logo=x&logoColor=00ff41"/></a>
-<a href="https://www.instagram.com/_ftp.d3f4ult/"><img src="https://img.shields.io/badge/Instagram-_ftp.d3f4ult-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff41"/></a>
-</p>
+> These use GitHub's own official badge feed (`img.shields.io` → GitHub API), so unlike the graphical pin cards they won't go down with the third-party demo server. Once you rename/replace `Little_RansomeWare`, swap in that repo here.
 
 ---
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yosef592&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&custom_title=D3f4ult%20Activity" width="94%" alt="Activity graph"/>
+`root@d3f4ult:~# echo "thanks for stopping by"`
 
-```text
-root@d3f4ult:~$ echo "keep learning. keep hacking."
-[ CONNECTION TERMINATED ]
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0d1117&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
