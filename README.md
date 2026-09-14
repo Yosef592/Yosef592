@@ -63,7 +63,9 @@ root@d3f4ult:~# find /certs -type f -exec file {} \;
   <a href="https://academy.geezsecurity.com/verify?id=GTSTV2R12AA0083" target="_blank">
     <img src="https://img.shields.io/badge/GTST-VERIFIED-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0d1117" />
   </a>
+  <a href="https://academy.geezsecurity.com/course/gtwss" target="_blank">
   <img src="https://img.shields.io/badge/GTWSS-IN_PROGRESS-1f6feb?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0d1117" />
+  </a>
   <img src="https://img.shields.io/badge/CERT_ID-GTSTV2R12AA0083-0d1117?style=for-the-badge&labelColor=000000&color=00FF41" />
 </p>
 
@@ -148,15 +150,15 @@ Open-source intelligence recon scripts & notes.
 <td width="50%" valign="top">
 
 ```bash
-root@d3f4ult:~# cd Cyber_Security && cat metadata.json
+root@d3f4ult:~# cd Hacking && cat metadata.json
 ```
-**[📁 Cyber_Security](https://github.com/Yosef592/Cyber_Security)**
-Security notes, writeups & practice work.
+**[📁 Cyber_Security](https://github.com/Yosef592/Hacking)**
+Security notes & practice work.
 
 <p>
-<img src="https://img.shields.io/github/stars/Yosef592/Cyber_Security?style=flat-square&color=00FF41&labelColor=0d1117&logo=github" />
-<img src="https://img.shields.io/github/last-commit/Yosef592/Cyber_Security?style=flat-square&color=1f6feb&labelColor=0d1117&logo=git" />
-<img src="https://img.shields.io/github/languages/top/Yosef592/Cyber_Security?style=flat-square&color=00FF41&labelColor=0d1117" />
+<img src="https://img.shields.io/github/stars/Yosef592/Hacking?style=flat-square&color=00FF41&labelColor=0d1117&logo=github" />
+<img src="https://img.shields.io/github/last-commit/Yosef592/Hacking?style=flat-square&color=1f6feb&labelColor=0d1117&logo=git" />
+<img src="https://img.shields.io/github/languages/top/Yosef592/Hacking?style=flat-square&color=00FF41&labelColor=0d1117" />
 </p>
 
 </td>
